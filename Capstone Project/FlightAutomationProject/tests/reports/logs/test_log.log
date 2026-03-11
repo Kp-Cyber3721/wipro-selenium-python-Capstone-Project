@@ -1,0 +1,240 @@
+2026-03-06 22:07:30,585 | INFO | test_flights | Test started
+2026-03-06 22:07:40,586 | INFO | test_flights | Searching flight
+2026-03-06 22:07:58,139 | INFO | test_flights | Selecting first flight
+2026-03-06 22:08:01,319 | INFO | test_flights | Filling guest details
+2026-03-06 22:08:09,654 | INFO | test_flights | Test started
+2026-03-06 22:08:19,654 | INFO | test_flights | Searching flight
+2026-03-06 22:08:35,682 | INFO | test_flights | Selecting first flight
+2026-03-06 22:08:38,847 | INFO | test_flights | Filling guest details
+2026-03-06 22:08:45,211 | INFO | test_flights | Filling passenger details
+2026-03-06 22:08:52,484 | INFO | test_flights | Selecting payment and accepting terms
+2026-03-06 22:08:54,564 | INFO | test_flights | Completing booking
+2026-03-06 22:08:59,648 | INFO | test_flights | Downloading invoice
+2026-03-06 22:09:05,978 | INFO | test_flights | Verifying invoice page
+2026-03-06 22:09:05,982 | INFO | test_flights | Test completed successfully
+2026-03-06 22:09:15,291 | INFO | test_flights | Test started
+2026-03-06 22:09:25,291 | INFO | test_flights | Searching flight
+2026-03-06 22:09:41,580 | INFO | test_flights | Selecting first flight
+2026-03-06 22:09:44,728 | INFO | test_flights | Filling guest details
+2026-03-06 22:09:51,085 | INFO | test_flights | Filling passenger details
+2026-03-06 22:09:58,357 | INFO | test_flights | Selecting payment and accepting terms
+2026-03-06 22:10:00,436 | INFO | test_flights | Completing booking
+2026-03-06 22:10:05,521 | INFO | test_flights | Downloading invoice
+2026-03-06 22:10:11,601 | INFO | test_flights | Verifying invoice page
+2026-03-06 22:10:11,605 | INFO | test_flights | Test completed successfully
+2026-03-07 09:58:19,446 | INFO | test_flights | Test started
+2026-03-07 09:58:20,261 | INFO | test_flights | Test started
+2026-03-07 09:58:25,728 | INFO | test_flights | Test started
+2026-03-07 09:58:29,448 | INFO | test_flights | Searching flight
+2026-03-07 09:58:30,262 | INFO | test_flights | Searching flight
+2026-03-07 09:58:35,730 | INFO | test_flights | Searching flight
+2026-03-07 10:01:41,290 | INFO | test_flights | Test started
+2026-03-07 10:01:41,838 | INFO | test_flights | Test started
+2026-03-07 10:01:41,921 | INFO | test_flights | Test started
+2026-03-07 10:01:51,291 | INFO | test_flights | Searching flight
+2026-03-07 10:01:51,839 | INFO | test_flights | Searching flight
+2026-03-07 10:01:51,922 | INFO | test_flights | Searching flight
+2026-03-07 10:02:07,700 | INFO | test_flights | Selecting first flight
+2026-03-07 10:02:08,944 | INFO | test_flights | Selecting first flight
+2026-03-07 10:02:09,059 | INFO | test_flights | Selecting first flight
+2026-03-07 10:02:10,846 | INFO | test_flights | Filling guest details
+2026-03-07 10:02:12,188 | INFO | test_flights | Filling guest details
+2026-03-07 10:02:12,326 | INFO | test_flights | Filling guest details
+2026-03-07 10:02:17,325 | INFO | test_flights | Filling passenger details
+2026-03-07 10:02:18,774 | INFO | test_flights | Filling passenger details
+2026-03-07 10:02:18,854 | INFO | test_flights | Filling passenger details
+2026-03-07 10:02:24,628 | INFO | test_flights | Selecting payment and accepting terms
+2026-03-07 10:02:26,092 | INFO | test_flights | Selecting payment and accepting terms
+2026-03-07 10:02:26,226 | INFO | test_flights | Selecting payment and accepting terms
+2026-03-07 10:02:26,712 | INFO | test_flights | Completing booking
+2026-03-07 10:02:28,219 | INFO | test_flights | Completing booking
+2026-03-07 10:02:28,363 | INFO | test_flights | Completing booking
+2026-03-07 10:02:31,801 | INFO | test_flights | Downloading invoice
+2026-03-07 10:02:33,359 | INFO | test_flights | Downloading invoice
+2026-03-07 10:02:33,517 | INFO | test_flights | Downloading invoice
+2026-03-07 10:02:38,055 | INFO | test_flights | Verifying invoice page
+2026-03-07 10:02:38,060 | INFO | test_flights | Test completed successfully
+2026-03-07 10:02:40,939 | INFO | test_flights | Verifying invoice page
+2026-03-07 10:02:40,943 | INFO | test_flights | Test completed successfully
+2026-03-07 10:02:40,955 | INFO | test_flights | Verifying invoice page
+2026-03-07 10:02:40,963 | INFO | test_flights | Test completed successfully
+2026-03-08 15:42:26,496 | INFO | test_flights | Test started
+2026-03-08 15:42:36,498 | INFO | test_flights | Searching flight
+2026-03-08 15:42:52,924 | INFO | test_flights | Selecting first flight
+2026-03-08 15:42:56,123 | INFO | test_flights | Filling guest details
+2026-03-08 15:43:02,738 | INFO | test_flights | Filling passenger details
+2026-03-08 15:43:10,182 | INFO | test_flights | Selecting payment and accepting terms
+2026-03-08 15:43:12,308 | INFO | test_flights | Completing booking
+2026-03-08 15:43:17,417 | INFO | test_flights | Downloading invoice
+2026-03-08 15:43:24,029 | INFO | test_flights | Verifying invoice page
+2026-03-08 15:43:24,036 | INFO | test_flights | Test completed successfully
+2026-03-08 15:43:32,487 | INFO | test_flights | Test started
+2026-03-08 15:43:42,488 | INFO | test_flights | Searching flight
+2026-03-08 15:43:58,914 | INFO | test_flights | Selecting first flight
+2026-03-08 15:44:02,132 | INFO | test_flights | Filling guest details
+2026-03-08 15:44:08,692 | INFO | test_flights | Filling passenger details
+2026-03-08 15:44:16,100 | INFO | test_flights | Selecting payment and accepting terms
+2026-03-08 15:44:18,216 | INFO | test_flights | Completing booking
+2026-03-08 15:44:23,318 | INFO | test_flights | Downloading invoice
+2026-03-08 15:44:29,544 | INFO | test_flights | Verifying invoice page
+2026-03-08 15:44:29,550 | INFO | test_flights | Test completed successfully
+2026-03-08 15:44:38,861 | INFO | test_flights | Test started
+2026-03-08 15:44:48,862 | INFO | test_flights | Searching flight
+2026-03-08 15:45:05,273 | INFO | test_flights | Selecting first flight
+2026-03-08 15:45:08,491 | INFO | test_flights | Filling guest details
+2026-03-08 15:45:14,977 | INFO | test_flights | Filling passenger details
+2026-03-08 15:45:22,360 | INFO | test_flights | Selecting payment and accepting terms
+2026-03-08 15:45:24,484 | INFO | test_flights | Completing booking
+2026-03-08 15:45:29,593 | INFO | test_flights | Downloading invoice
+2026-03-08 15:45:37,146 | INFO | test_flights | Verifying invoice page
+2026-03-08 15:45:37,152 | INFO | test_flights | Test completed successfully
+2026-03-08 16:05:25,766 | INFO | test_flights | ========== Test Started ==========
+2026-03-08 16:05:35,767 | INFO | test_flights | Searching flight
+2026-03-08 16:05:52,261 | INFO | test_flights | Capturing price from results page
+2026-03-08 16:06:21,541 | INFO | test_flights | ========== Test Started ==========
+2026-03-08 16:06:31,542 | INFO | test_flights | Searching flight
+2026-03-08 16:06:47,956 | INFO | test_flights | Capturing price from results page
+2026-03-08 16:07:16,507 | INFO | test_flights | ========== Test Started ==========
+2026-03-08 16:07:26,508 | INFO | test_flights | Searching flight
+2026-03-08 16:07:42,740 | INFO | test_flights | Capturing price from results page
+2026-03-08 16:14:52,372 | INFO | test_flights | Test Started
+2026-03-08 16:15:43,825 | INFO | test_flights | Test Started
+2026-03-08 16:16:35,127 | INFO | test_flights | Test Started
+2026-03-08 16:18:05,546 | INFO | test_flights | Test started
+2026-03-08 16:18:15,547 | INFO | test_flights | Searching flight
+2026-03-08 16:18:32,024 | INFO | test_flights | Selecting first flight
+2026-03-08 16:18:35,224 | INFO | test_flights | Filling guest details
+2026-03-08 16:18:41,862 | INFO | test_flights | Filling passenger details
+2026-03-08 16:18:49,309 | INFO | test_flights | Selecting payment and accepting terms
+2026-03-08 16:18:51,439 | INFO | test_flights | Completing booking
+2026-03-08 16:18:56,548 | INFO | test_flights | Downloading invoice
+2026-03-08 16:19:03,923 | INFO | test_flights | Verifying invoice page
+2026-03-08 16:19:03,931 | INFO | test_flights | Test completed successfully
+2026-03-08 16:19:12,850 | INFO | test_flights | Test started
+2026-03-08 16:19:22,851 | INFO | test_flights | Searching flight
+2026-03-08 16:19:39,139 | INFO | test_flights | Selecting first flight
+2026-03-08 16:19:42,329 | INFO | test_flights | Filling guest details
+2026-03-08 16:19:48,927 | INFO | test_flights | Filling passenger details
+2026-03-08 16:19:56,385 | INFO | test_flights | Selecting payment and accepting terms
+2026-03-08 16:19:58,515 | INFO | test_flights | Completing booking
+2026-03-08 16:20:03,624 | INFO | test_flights | Downloading invoice
+2026-03-08 16:20:10,030 | INFO | test_flights | Verifying invoice page
+2026-03-08 16:20:10,094 | INFO | test_flights | Test completed successfully
+2026-03-08 16:20:18,913 | INFO | test_flights | Test started
+2026-03-08 16:20:28,914 | INFO | test_flights | Searching flight
+2026-03-08 16:20:45,422 | INFO | test_flights | Selecting first flight
+2026-03-08 16:20:48,694 | INFO | test_flights | Filling guest details
+2026-03-08 16:20:55,282 | INFO | test_flights | Filling passenger details
+2026-03-08 16:21:02,730 | INFO | test_flights | Selecting payment and accepting terms
+2026-03-08 16:21:04,865 | INFO | test_flights | Completing booking
+2026-03-08 16:21:09,983 | INFO | test_flights | Downloading invoice
+2026-03-08 16:21:17,174 | INFO | test_flights | Verifying invoice page
+2026-03-08 16:21:17,181 | INFO | test_flights | Test completed successfully
+2026-03-08 16:22:39,435 | INFO | test_flights | Test started
+2026-03-08 16:22:49,436 | INFO | test_flights | Searching flight
+2026-03-08 16:23:05,940 | INFO | test_flights | Selecting first flight
+2026-03-08 16:23:09,131 | INFO | test_flights | Filling guest details
+2026-03-08 16:23:15,733 | INFO | test_flights | Filling passenger details
+2026-03-08 16:23:23,182 | INFO | test_flights | Selecting payment and accepting terms
+2026-03-08 16:23:25,310 | INFO | test_flights | Completing booking
+2026-03-08 16:23:30,417 | INFO | test_flights | Downloading invoice
+2026-03-08 16:23:36,604 | INFO | test_flights | Verifying invoice page
+2026-03-08 16:23:36,624 | INFO | test_flights | Test completed successfully
+2026-03-08 16:23:45,203 | INFO | test_flights | Test started
+2026-03-08 16:23:55,203 | INFO | test_flights | Searching flight
+2026-03-09 09:40:08,857 | INFO | test_flights | Test started
+2026-03-09 09:40:11,152 | INFO | test_flights | Test started
+2026-03-09 09:40:14,119 | INFO | test_flights | Test started
+2026-03-09 09:40:18,863 | INFO | test_flights | Searching flight
+2026-03-09 09:40:21,153 | INFO | test_flights | Searching flight
+2026-03-09 09:40:24,120 | INFO | test_flights | Searching flight
+2026-03-09 09:40:35,157 | INFO | test_flights | Selecting first flight
+2026-03-09 09:40:37,576 | INFO | test_flights | Selecting first flight
+2026-03-09 09:40:38,349 | INFO | test_flights | Filling guest details
+2026-03-09 09:40:40,649 | INFO | test_flights | Selecting first flight
+2026-03-09 09:40:40,878 | INFO | test_flights | Filling guest details
+2026-03-09 09:40:43,827 | INFO | test_flights | Filling guest details
+2026-03-09 09:40:44,847 | INFO | test_flights | Filling passenger details
+2026-03-09 09:40:47,327 | INFO | test_flights | Filling passenger details
+2026-03-09 09:40:50,262 | INFO | test_flights | Filling passenger details
+2026-03-09 09:40:52,168 | INFO | test_flights | Selecting payment and accepting terms
+2026-03-09 09:40:54,650 | INFO | test_flights | Selecting payment and accepting terms
+2026-03-09 09:40:57,563 | INFO | test_flights | Selecting payment and accepting terms
+2026-03-09 09:41:48,172 | INFO | test_flights | Test started
+2026-03-09 09:41:48,218 | INFO | test_flights | Test started
+2026-03-09 09:41:48,892 | INFO | test_flights | Test started
+2026-03-09 09:41:58,173 | INFO | test_flights | Searching flight
+2026-03-09 09:41:58,219 | INFO | test_flights | Searching flight
+2026-03-09 09:41:58,892 | INFO | test_flights | Searching flight
+2026-03-09 09:42:14,858 | INFO | test_flights | Selecting first flight
+2026-03-09 09:42:15,078 | INFO | test_flights | Selecting first flight
+2026-03-09 09:42:15,825 | INFO | test_flights | Selecting first flight
+2026-03-09 09:42:18,059 | INFO | test_flights | Filling guest details
+2026-03-09 09:42:18,323 | INFO | test_flights | Filling guest details
+2026-03-09 09:42:19,043 | INFO | test_flights | Filling guest details
+2026-03-09 09:42:24,533 | INFO | test_flights | Filling passenger details
+2026-03-09 09:42:24,780 | INFO | test_flights | Filling passenger details
+2026-03-09 09:42:25,431 | INFO | test_flights | Filling passenger details
+2026-03-09 09:42:31,886 | INFO | test_flights | Selecting payment and accepting terms
+2026-03-09 09:42:32,111 | INFO | test_flights | Selecting payment and accepting terms
+2026-03-09 09:42:32,723 | INFO | test_flights | Selecting payment and accepting terms
+2026-03-09 09:50:02,221 | INFO | test_flights | Test started
+2026-03-09 09:50:02,293 | INFO | test_flights | Test started
+2026-03-09 09:50:02,491 | INFO | test_flights | Test started
+2026-03-09 09:50:12,222 | INFO | test_flights | Searching flight
+2026-03-09 09:50:12,294 | INFO | test_flights | Searching flight
+2026-03-09 09:50:12,492 | INFO | test_flights | Searching flight
+2026-03-09 09:50:28,949 | INFO | test_flights | Selecting first flight
+2026-03-09 09:50:29,319 | INFO | test_flights | Selecting first flight
+2026-03-09 09:50:29,336 | INFO | test_flights | Selecting first flight
+2026-03-09 09:50:32,205 | INFO | test_flights | Filling guest details
+2026-03-09 09:50:32,563 | INFO | test_flights | Filling guest details
+2026-03-09 09:50:32,633 | INFO | test_flights | Filling guest details
+2026-03-09 09:50:38,751 | INFO | test_flights | Filling passenger details
+2026-03-09 09:50:39,024 | INFO | test_flights | Filling passenger details
+2026-03-09 09:50:39,319 | INFO | test_flights | Filling passenger details
+2026-03-09 09:50:46,152 | INFO | test_flights | Selecting payment and accepting terms
+2026-03-09 09:50:46,383 | INFO | test_flights | Selecting payment and accepting terms
+2026-03-09 09:50:46,693 | INFO | test_flights | Selecting payment and accepting terms
+2026-03-09 09:50:48,252 | INFO | test_flights | Completing booking
+2026-03-09 09:50:48,485 | INFO | test_flights | Completing booking
+2026-03-09 09:50:48,801 | INFO | test_flights | Completing booking
+2026-03-09 09:50:53,383 | INFO | test_flights | Downloading invoice
+2026-03-09 09:50:53,651 | INFO | test_flights | Downloading invoice
+2026-03-09 09:50:53,980 | INFO | test_flights | Downloading invoice
+2026-03-09 09:51:00,043 | INFO | test_flights | Verifying invoice page
+2026-03-09 09:51:00,048 | INFO | test_flights | Test completed successfully
+2026-03-09 09:51:00,206 | INFO | test_flights | Verifying invoice page
+2026-03-09 09:51:00,212 | INFO | test_flights | Test completed successfully
+2026-03-09 09:51:01,592 | INFO | test_flights | Verifying invoice page
+2026-03-09 09:51:01,597 | INFO | test_flights | Test completed successfully
+2026-03-10 09:35:13,395 | INFO | test_flights | Test started
+2026-03-10 09:35:23,396 | INFO | test_flights | Searching flight
+2026-03-10 09:35:40,236 | INFO | test_flights | Selecting first flight
+2026-03-10 09:35:43,372 | INFO | test_flights | Filling guest details
+2026-03-10 09:35:49,749 | INFO | test_flights | Filling passenger details
+2026-03-10 09:35:57,039 | INFO | test_flights | Selecting payment and accepting terms
+2026-03-10 09:35:59,119 | INFO | test_flights | Completing booking
+2026-03-10 09:36:04,210 | INFO | test_flights | Downloading invoice
+2026-03-10 09:36:11,850 | INFO | test_flights | Verifying invoice page
+2026-03-10 09:36:11,854 | INFO | test_flights | Test completed successfully
+2026-03-10 09:36:19,261 | INFO | test_flights | Test started
+2026-03-10 09:36:29,261 | INFO | test_flights | Searching flight
+2026-03-10 09:36:45,604 | INFO | test_flights | Selecting first flight
+2026-03-10 09:36:48,726 | INFO | test_flights | Filling guest details
+2026-03-10 09:36:55,064 | INFO | test_flights | Filling passenger details
+2026-03-10 09:37:02,331 | INFO | test_flights | Selecting payment and accepting terms
+2026-03-10 09:37:04,405 | INFO | test_flights | Completing booking
+2026-03-10 09:37:09,485 | INFO | test_flights | Downloading invoice
+2026-03-10 09:37:18,111 | INFO | test_flights | Verifying invoice page
+2026-03-10 09:37:18,115 | INFO | test_flights | Test completed successfully
+2026-03-10 09:37:26,817 | INFO | test_flights | Test started
+2026-03-10 09:37:36,818 | INFO | test_flights | Searching flight
+2026-03-10 09:37:53,119 | INFO | test_flights | Selecting first flight
+2026-03-10 09:37:56,288 | INFO | test_flights | Filling guest details
+2026-03-10 09:38:02,639 | INFO | test_flights | Filling passenger details
+2026-03-10 09:38:09,904 | INFO | test_flights | Selecting payment and accepting terms
+2026-03-10 09:38:11,977 | INFO | test_flights | Completing booking
+2026-03-10 09:38:17,061 | INFO | test_flights | Downloading invoice
+2026-03-10 09:38:25,390 | INFO | test_flights | Verifying invoice page
+2026-03-10 09:38:25,394 | INFO | test_flights | Test completed successfully
